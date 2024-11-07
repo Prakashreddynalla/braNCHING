@@ -7,5 +7,5 @@ response=client.run_instances(
     KeyName ='VINNUs',
     SubnetId='subnet-0cc6dc42bfcbf4a60',
     MaxCount =1,
-    MinCount =1
+    MinCount =5
 )
